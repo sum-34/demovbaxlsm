@@ -1,7 +1,7 @@
 Option Explicit
 
 Sub test()
-MsgBox "hi"
+MsgBox "logieagle"
 End Sub
 
 Sub test2()
