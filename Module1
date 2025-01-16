@@ -5,5 +5,5 @@ MsgBox "logieagle"
 End Sub
 
 Sub test2()
-MsgBox "sum1"
+MsgBox "Hello"
 End Sub
