@@ -1,5 +1,0 @@
-Option Explicit
-
-Sub testmod3()
-MsgBox "testmod3"
-End Sub
