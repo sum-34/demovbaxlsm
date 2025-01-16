@@ -1,9 +1,0 @@
-Option Explicit
-
-Sub test()
-MsgBox "hi"
-End Sub
-
-Sub test2()
-MsgBox "sum1"
-End Sub
