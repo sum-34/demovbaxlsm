@@ -1,0 +1,9 @@
+Option Explicit
+
+Sub test()
+MsgBox "hi"
+End Sub
+
+Sub test2()
+MsgBox "test2"
+End Sub
