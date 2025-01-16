@@ -5,5 +5,5 @@ MsgBox "hi"
 End Sub
 
 Sub test2()
-MsgBox "test2"
+MsgBox "sum1"
 End Sub
