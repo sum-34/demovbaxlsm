@@ -1,9 +1,1 @@
-Option Explicit
 
-Sub abc()
-MsgBox "hiabc"
-End Sub
-
-Sub test3()
-MsgBox "test31"
-End Sub
