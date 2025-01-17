@@ -1,5 +1,5 @@
 Option Explicit
 
 Sub testmod6()
-MsgBox "testmod6 sum"
+MsgBox "testmod6 sum1"
 End Sub
