@@ -2,4 +2,4 @@ Option Explicit
 
 Sub testmod8()
 MsgBox "sum testmod8 hello"
-End Sub   
+End Sub
