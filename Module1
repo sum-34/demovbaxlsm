@@ -1,9 +1,1 @@
-Option Explicit
 
-Sub test()
-MsgBox "logieagle"
-End Sub
-
-Sub test2()
-MsgBox "Hello"
-End Sub
