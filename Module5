@@ -5,5 +5,5 @@ MsgBox "testmod sum"
 End Sub
 
 Sub testmod6()
-MsgBox "testmod6"
+MsgBox "testmod61"
 End Sub
