@@ -1,5 +1,5 @@
 Option Explicit
 
 Sub testmod6()
-MsgBox "test6"
+MsgBox "test56"
 End Sub
