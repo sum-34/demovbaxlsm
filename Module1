@@ -1,1 +1,5 @@
+Option Explicit
 
+Sub testmod1()
+MsgBox "test1"
+End Sub
