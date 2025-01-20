@@ -3,3 +3,7 @@ Option Explicit
 Sub testmod5()
 MsgBox "testmod sum"
 End Sub
+
+Sub testmod6()
+MsgBox "testmod6"
+End Sub
